@@ -1,0 +1,441 @@
+[{
+        "category": "Meditation",
+        "isFeatured": true,
+        "goalNum": 10,
+        "imageName": "meditationImage",
+        "id": "00",
+        "rating": 0,
+        "description": "Find a quiet, comfortable place to meditate for a few minutes.  You can either sit cross-legged on the floor, on a cushion, or sitting in a chair.  Set a time limit on your cell phone or nearby device as the duration.  Close your eyes, relax your muscles, and focus on all parts of your body.  Concentrate on your head, to your neck, to your shoulders, down your arms, and so on.  Notice your breathing patterns, but don’t actively try to change them.  Notice your thoughts, but let them pass rather than try to empty your mind.",
+        "duration": 5
+    },
+    {
+        "category": "Meditation",
+        "isFeatured": true,
+        "goalNum": 10,
+        "imageName": "meditationImage2",
+        "id": "01",
+        "rating": 0,
+        "description": "Find a quiet, comfortable place to meditate for a few minutes.  You can either sit cross-legged on the floor, on a cushion, or sitting in a chair.  Set a time limit on your cell phone or nearby device as the duration.  Close your eyes, relax your muscles, and focus on all parts of your body.  Concentrate on your head, to your neck, to your shoulders, down your arms, and so on.  Notice your breathing patterns, but don’t actively try to change them.  Notice your thoughts, but let them pass rather than try to empty your mind.",
+        "duration": 10
+    },
+    {
+        "category": "Meditation",
+        "isFeatured": true,
+        "goalNum": 10,
+        "imageName": "meditationImage3",
+        "id": "02",
+        "rating": 0,
+        "description": "Find a quiet, comfortable place to meditate for a few minutes.  You can either sit cross-legged on the floor, on a cushion, or sitting in a chair.  Set a time limit on your cell phone or nearby device as the duration.  Close your eyes, relax your muscles, and focus on all parts of your body.  Concentrate on your head, to your neck, to your shoulders, down your arms, and so on.  Notice your breathing patterns, but don’t actively try to change them.  Notice your thoughts, but let them pass rather than try to empty your mind.",
+        "duration": 20
+    },
+    {
+        "category": "Meditation",
+        "isFeatured": true,
+        "goalNum": 10,
+        "imageName": "meditationImage",
+        "id": "03",
+        "rating": 0,
+        "description": "Find a quiet, comfortable place to meditate for a few minutes.  You can either sit cross-legged on the floor, on a cushion, or sitting in a chair.  Set a time limit on your cell phone or nearby device as the duration.  Close your eyes, relax your muscles, and focus on all parts of your body.  Concentrate on your head, to your neck, to your shoulders, down your arms, and so on.  Notice your breathing patterns, but don’t actively try to change them.  Notice your thoughts, but let them pass rather than try to empty your mind.",
+        "duration": 30
+    },
+    {
+        "category": "Biking",
+        "isFeatured": true,
+        "goalNum": 1,
+        "imageName": "bikeImage",
+        "id": "10",
+        "rating": 0,
+        "description": "Find a safe outdoor path to bike on; it could be around your school, on your street, or any other place available.  Be sure to stay safe and alert by watching for traffic and mapping out your route ahead of time.  Bike at a leisurely pace and don’t worry about biking as fast or as hard as you can.  Take in the fresh air and be mindful of your surroundings.  The most important thing is to enjoy yourself while biking.",
+        "duration": 5
+    },
+    {
+        "category": "Biking",
+        "isFeatured": true,
+        "goalNum": 1,
+        "imageName": "bikeImage2",
+        "id": "11",
+        "rating": 0,
+        "description": "Find a safe outdoor path to bike on; it could be around your school, on your street, or any other place available.  Be sure to stay safe and alert by watching for traffic and mapping out your route ahead of time.  Bike at a leisurely pace and don’t worry about biking as fast or as hard as you can.  Take in the fresh air and be mindful of your surroundings.  The most important thing is to enjoy yourself while biking.",
+        "duration": 10
+    },
+    {
+        "category": "Biking",
+        "isFeatured": true,
+        "goalNum": 1,
+        "imageName": "bikeImage3",
+        "id": "12",
+        "rating": 0,
+        "description": "Find a safe outdoor path to bike on; it could be around your school, on your street, or any other place available.  Be sure to stay safe and alert by watching for traffic and mapping out your route ahead of time.  Bike at a leisurely pace and don’t worry about biking as fast or as hard as you can.  Take in the fresh air and be mindful of your surroundings.  The most important thing is to enjoy yourself while biking.",
+        "duration": 20
+    },
+    {
+        "category": "Biking",
+        "isFeatured": true,
+        "goalNum": 1,
+        "imageName": "bikeImage4",
+        "id": "13",
+        "rating": 0,
+        "description": "Find a safe outdoor path to bike on; it could be around your school, on your street, or any other place available.  Be sure to stay safe and alert by watching for traffic and mapping out your route ahead of time.  Bike at a leisurely pace and don’t worry about biking as fast or as hard as you can.  Take in the fresh air and be mindful of your surroundings.  The most important thing is to enjoy yourself while biking.",
+        "duration": 30
+    },
+    {
+        "category": "Walking",
+        "isFeatured": true,
+        "goalNum": 2,
+        "imageName": "walkImage",
+        "id": "20",
+        "rating": 0,
+        "description": "Find a safe outdoor path to walk around, either by yourself or with family or friends.  It can be anywhere: your neighborhood, down your street, or around your school, for example.  What at whatever pace you feel most comfortable at, don’t feel pressured to speed walk.",
+        "duration": 5
+    },
+    {
+        "category": "Walking",
+        "isFeatured": true,
+        "goalNum": 2,
+        "imageName": "walkImage2",
+        "id": "21",
+        "rating": 0,
+        "description": "Find a safe outdoor path to walk around, either by yourself or with family or friends.  It can be anywhere: your neighborhood, down your street, or around your school, for example.  What at whatever pace you feel most comfortable at, don’t feel pressured to speed walk.",
+        "duration": 10
+    },
+    {
+        "category": "Walking",
+        "isFeatured": true,
+        "goalNum": 2,
+        "imageName": "walkImage",
+        "id": "22",
+        "rating": 0,
+        "description": "Find a safe outdoor path to walk around, either by yourself or with family or friends.  It can be anywhere: your neighborhood, down your street, or around your school, for example.  What at whatever pace you feel most comfortable at, don’t feel pressured to speed walk.",
+        "duration": 20
+    },
+    {
+        "category": "Walking",
+        "isFeatured": true,
+        "goalNum": 2,
+        "imageName": "walkImage",
+        "id": "23",
+        "rating": 0,
+        "description": "Find a safe outdoor path to walk around, either by yourself or with family or friends.  It can be anywhere: your neighborhood, down your street, or around your school, for example.  What at whatever pace you feel most comfortable at, don’t feel pressured to speed walk.",
+        "duration": 30
+    },
+    {
+        "category": "Yoga",
+        "isFeatured": true,
+        "goalNum": 5,
+        "imageName": "yogaImage",
+        "id": "30",
+        "rating": 0,
+        "description": "This is similar to meditation, but with more movements.  You can use a yoga mat if you have one, but it’s okay if you don’t.  First, start in a standing position and settle your breathing to a resting rate.  Start with gentle arm stretches, hamstring stretches, and forward and side bends to warm up.  Next, alternate through the downward dog, plant, lunge, and Warrior II poses, feeling the parts of your body that the workout stretches.  Cool down with hip openers and child’s poses.",
+        "duration": 5
+    },
+    {
+        "category": "Yoga",
+        "isFeatured": true,
+        "goalNum": 5,
+        "imageName": "yogaImage2",
+        "id": "31",
+        "rating": 0,
+        "description": "This is similar to meditation, but with more movements.  You can use a yoga mat if you have one, but it’s okay if you don’t.  First, start in a standing position and settle your breathing to a resting rate.  Start with gentle arm stretches, hamstring stretches, and forward and side bends to warm up.  Next, alternate through the downward dog, plant, lunge, and Warrior II poses, feeling the parts of your body that the workout stretches.  Cool down with hip openers and child’s poses.",
+        "duration": 10
+    },
+    {
+        "category": "Yoga",
+        "isFeatured": true,
+        "goalNum": 5,
+        "imageName": "yogaImage3",
+        "id": "32",
+        "rating": 0,
+        "description": "This is similar to meditation, but with more movements.  You can use a yoga mat if you have one, but it’s okay if you don’t.  First, start in a standing position and settle your breathing to a resting rate.  Start with gentle arm stretches, hamstring stretches, and forward and side bends to warm up.  Next, alternate through the downward dog, plant, lunge, and Warrior II poses, feeling the parts of your body that the workout stretches.  Cool down with hip openers and child’s poses.",
+        "duration": 20
+    },
+    {
+        "category": "Yoga",
+        "isFeatured": true,
+        "goalNum": 5,
+        "imageName": "yogaImage",
+        "id": "33",
+        "rating": 0,
+        "description": "This is similar to meditation, but with more movements.  You can use a yoga mat if you have one, but it’s okay if you don’t.  First, start in a standing position and settle your breathing to a resting rate.  Start with gentle arm stretches, hamstring stretches, and forward and side bends to warm up.  Next, alternate through the downward dog, plant, lunge, and Warrior II poses, feeling the parts of your body that the workout stretches.  Cool down with hip openers and child’s poses.",
+        "duration": 30
+    },
+    {
+        "category": "Running",
+        "isFeatured": true,
+        "goalNum": 0,
+        "imageName": "runImage",
+        "id": "40",
+        "rating": 0,
+        "description": "Find a safe outdoor path to run around on, either by yourself or with family or friends.  It can be anywhere: your neighborhood, down your street, or around your school, for example.  Run at whatever pace you feel comfortable at, and make sure your main focus is enjoying yourself and the challenge.  Don’t push too hard!",
+        "duration": 5
+    },
+    {
+        "category": "Running",
+        "isFeatured": true,
+        "goalNum": 0,
+        "imageName": "runImage2",
+        "id": "41",
+        "rating": 0,
+        "description": "Find a safe outdoor path to run around on, either by yourself or with family or friends.  It can be anywhere: your neighborhood, down your street, or around your school, for example.  Run at whatever pace you feel comfortable at, and make sure your main focus is enjoying yourself and the challenge.  Don’t push too hard!",
+        "duration": 10
+    },
+    {
+        "category": "Running",
+        "isFeatured": true,
+        "goalNum": 0,
+        "imageName": "runImage",
+        "id": "42",
+        "rating": 0,
+        "description": "Find a safe outdoor path to run around on, either by yourself or with family or friends.  It can be anywhere: your neighborhood, down your street, or around your school, for example.  Run at whatever pace you feel comfortable at, and make sure your main focus is enjoying yourself and the challenge.  Don’t push too hard!",
+        "duration": 20
+    },
+    {
+        "category": "Running",
+        "isFeatured": true,
+        "goalNum": 0,
+        "imageName": "runImage",
+        "id": "43",
+        "rating": 0,
+        "description": "Find a safe outdoor path to run around on, either by yourself or with family or friends.  It can be anywhere: your neighborhood, down your street, or around your school, for example.  Run at whatever pace you feel comfortable at, and make sure your main focus is enjoying yourself and the challenge.  Don’t push too hard!",
+        "duration": 30
+    },
+    {
+        "category": "Swimming",
+        "isFeatured": true,
+        "goalNum": 6,
+        "imageName": "swimImage",
+        "id": "50",
+        "rating": 0,
+        "description": "If you have a pool accessible or any suitable body of water, this exercise can be a lot of fun!  Just jump in and have fun, don’t worry about being competitive and swimming laps if you don’t enjoy it.",
+        "duration": 5
+    },
+    {
+        "category": "Swimming",
+        "isFeatured": true,
+        "goalNum": 6,
+        "imageName": "swimImage2",
+        "id": "51",
+        "rating": 0,
+        "description": "If you have a pool accessible or any suitable body of water, this exercise can be a lot of fun!  Just jump in and have fun, don’t worry about being competitive and swimming laps if you don’t enjoy it.",
+        "duration": 10
+    },
+    {
+        "category": "Swimming",
+        "isFeatured": true,
+        "goalNum": 6,
+        "imageName": "swimImage",
+        "id": "52",
+        "rating": 0,
+        "description": "If you have a pool accessible or any suitable body of water, this exercise can be a lot of fun!  Just jump in and have fun, don’t worry about being competitive and swimming laps if you don’t enjoy it.",
+        "duration": 20
+    },
+    {
+        "category": "Swimming",
+        "isFeatured": true,
+        "goalNum": 6,
+        "imageName": "swimImage",
+        "id": "53",
+        "rating": 0,
+        "description": "If you have a pool accessible or any suitable body of water, this exercise can be a lot of fun!  Just jump in and have fun, don’t worry about being competitive and swimming laps if you don’t enjoy it.",
+        "duration": 30
+    },
+    {
+        "category": "Stretching",
+        "isFeatured": true,
+        "goalNum": 5,
+        "imageName": "stretchImage",
+        "id": "60",
+        "rating": 0,
+        "description": "Start by stretching your amrs with arm circles in both directions.  Then, cross one arm across your body and hold it in place in front of your chest with the other arm.  Repeat on both sides for 10 seconds each. Next, do hip circles and hamstring stretches.  Finish with quad stretches, holding the front of your ankle up to your hips and balancing on 1 leg, for 10 seconds each leg.",
+        "duration": 5
+    },
+    {
+        "category": "Stretching",
+        "isFeatured": true,
+        "goalNum": 5,
+        "imageName": "stretchImage2",
+        "id": "61",
+        "rating": 0,
+        "description": "Start by stretching your amrs with arm circles in both directions.  Then, cross one arm across your body and hold it in place in front of your chest with the other arm.  Repeat on both sides for 10 seconds each. Next, do hip circles and hamstring stretches.  Finish with quad stretches, holding the front of your ankle up to your hips and balancing on 1 leg, for 10 seconds each leg.",
+        "duration": 10
+    },
+    {
+        "category": "Stretching",
+        "isFeatured": true,
+        "goalNum": 5,
+        "imageName": "stretchImage",
+        "id": "62",
+        "rating": 0,
+        "description": "Start by stretching your amrs with arm circles in both directions.  Then, cross one arm across your body and hold it in place in front of your chest with the other arm.  Repeat on both sides for 10 seconds each. Next, do hip circles and hamstring stretches.  Finish with quad stretches, holding the front of your ankle up to your hips and balancing on 1 leg, for 10 seconds each leg.",
+        "duration": 20
+    },
+    {
+        "category": "Stretching",
+        "isFeatured": true,
+        "goalNum": 5,
+        "imageName": "stretchImage",
+        "id": "63",
+        "rating": 0,
+        "description": "Start by stretching your amrs with arm circles in both directions.  Then, cross one arm across your body and hold it in place in front of your chest with the other arm.  Repeat on both sides for 10 seconds each. Next, do hip circles and hamstring stretches.  Finish with quad stretches, holding the front of your ankle up to your hips and balancing on 1 leg, for 10 seconds each leg.",
+        "duration": 30
+    },
+    {
+        "category": "Strength Training",
+        "isFeatured": true,
+        "goalNum": 0,
+        "imageName": "strengthImage",
+        "id": "70",
+        "rating": 0,
+        "description": "Warm up with stretches first.  Make sure you don’t push yourself too hard and get injured, and ensure that you have another person in the vicinity to help you if you’re about to get injured.  Cool down with stretches, and focus on feeling healthy and strong throughout the workout.",
+        "duration": 5
+    },
+    {
+        "category": "Strength Training",
+        "isFeatured": true,
+        "goalNum": 0,
+        "imageName": "strengthImage2",
+        "id": "71",
+        "rating": 0,
+        "description": "Warm up with stretches first.  Make sure you don’t push yourself too hard and get injured, and ensure that you have another person in the vicinity to help you if you’re about to get injured.  Cool down with stretches, and focus on feeling healthy and strong throughout the workout.",
+        "duration": 10
+    },
+    {
+        "category": "Strength Training",
+        "isFeatured": true,
+        "goalNum": 0,
+        "imageName": "strengthImage3",
+        "id": "72",
+        "rating": 0,
+        "description": "Warm up with stretches first.  Make sure you don’t push yourself too hard and get injured, and ensure that you have another person in the vicinity to help you if you’re about to get injured.  Cool down with stretches, and focus on feeling healthy and strong throughout the workout.",
+        "duration": 20
+    },
+    {
+        "category": "Strength Training",
+        "isFeatured": true,
+        "goalNum": 0,
+        "imageName": "strengthImage",
+        "id": "73",
+        "rating": 0,
+        "description": "Warm up with stretches first.  Make sure you don’t push yourself too hard and get injured, and ensure that you have another person in the vicinity to help you if you’re about to get injured.  Cool down with stretches, and focus on feeling healthy and strong throughout the workout.",
+        "duration": 30
+    },
+    {
+        "category": "Climbing",
+        "isFeatured": true,
+        "goalNum": 3,
+        "imageName": "climbImage",
+        "id": "80",
+        "rating": 0,
+        "description": "You could do this in an indoor climbing gym or on real rock outdoors.  Make sure to warm up with stretches beforehand to reduce the risk of injury, and climb on routes that are challenging, but fun.  Follow all safety instructions and configure the ropes and harness correctly before each climb.  Cool down with more stretches.",
+        "duration": 5
+    },
+    {
+        "category": "Climbing",
+        "isFeatured": true,
+        "goalNum": 3,
+        "imageName": "climbImage2",
+        "id": "81",
+        "rating": 0,
+        "description": "You could do this in an indoor climbing gym or on real rock outdoors.  Make sure to warm up with stretches beforehand to reduce the risk of injury, and climb on routes that are challenging, but fun.  Follow all safety instructions and configure the ropes and harness correctly before each climb.  Cool down with more stretches.",
+        "duration": 10
+    },
+    {
+        "category": "Climbing",
+        "isFeatured": true,
+        "goalNum": 3,
+        "imageName": "climbImage3",
+        "id": "82",
+        "rating": 0,
+        "description": "You could do this in an indoor climbing gym or on real rock outdoors.  Make sure to warm up with stretches beforehand to reduce the risk of injury, and climb on routes that are challenging, but fun.  Follow all safety instructions and configure the ropes and harness correctly before each climb.  Cool down with more stretches.",
+        "duration": 20
+    },
+    {
+        "category": "Climbing",
+        "isFeatured": true,
+        "goalNum": 3,
+        "imageName": "climbImage4",
+        "id": "83",
+        "rating": 0,
+        "description": "You could do this in an indoor climbing gym or on real rock outdoors.  Make sure to warm up with stretches beforehand to reduce the risk of injury, and climb on routes that are challenging, but fun.  Follow all safety instructions and configure the ropes and harness correctly before each climb.  Cool down with more stretches.",
+        "duration": 30
+    },
+    {
+        "category": "Gardening",
+        "isFeatured": true,
+        "goalNum": 4,
+        "imageName": "gardenImage",
+        "id": "90",
+        "rating": 0,
+        "description": "If you have access to a garden or some plants outside, this would be a relaxing form of physical activity.  You could water the plants, remove weeds, pick fruits or vegetables, and just enjoy the time around nature.",
+        "duration": 5
+    },
+    {
+        "category": "Gardening",
+        "isFeatured": true,
+        "goalNum": 4,
+        "imageName": "gardenImage2",
+        "id": "91",
+        "rating": 0,
+        "description": "If you have access to a garden or some plants outside, this would be a relaxing form of physical activity.  You could water the plants, remove weeds, pick fruits or vegetables, and just enjoy the time around nature.",
+        "duration": 10
+    },
+    {
+        "category": "Gardening",
+        "isFeatured": true,
+        "goalNum": 4,
+        "imageName": "gardenImage3",
+        "id": "92",
+        "rating": 0,
+        "description": "If you have access to a garden or some plants outside, this would be a relaxing form of physical activity.  You could water the plants, remove weeds, pick fruits or vegetables, and just enjoy the time around nature.",
+        "duration": 20
+    },
+    {
+        "category": "Gardening",
+        "isFeatured": true,
+        "goalNum": 4,
+        "imageName": "gardenImage",
+        "id": "93",
+        "rating": 0,
+        "description": "If you have access to a garden or some plants outside, this would be a relaxing form of physical activity.  You could water the plants, remove weeds, pick fruits or vegetables, and just enjoy the time around nature.",
+        "duration": 30
+    },
+    {
+        "category": "Dancing",
+        "isFeatured": true,
+        "goalNum": 2,
+        "imageName": "danceImage",
+        "id": "100",
+        "rating": 0,
+        "description": "Pick your favorite songs or type of music and do whatever dance you’d like!  You can search dance videos online, or just make up your own moves!  You have the most freedom with this exercise.",
+        "duration": 5
+    },
+    {
+        "category": "Dancing",
+        "isFeatured": true,
+        "goalNum": 2,
+        "imageName": "danceImage2",
+        "id": "101",
+        "rating": 0,
+        "description": "Pick your favorite songs or type of music and do whatever dance you’d like!  You can search dance videos online, or just make up your own moves!  You have the most freedom with this exercise.",
+        "duration": 10
+    },
+    {
+        "category": "Dancing",
+        "isFeatured": true,
+        "goalNum": 2,
+        "imageName": "danceImage",
+        "id": "102",
+        "rating": 0,
+        "description": "Pick your favorite songs or type of music and do whatever dance you’d like!  You can search dance videos online, or just make up your own moves!  You have the most freedom with this exercise.",
+        "duration": 20
+    },
+    {
+        "category": "Dancing",
+        "isFeatured": true,
+        "goalNum": 2,
+        "imageName": "danceImage",
+        "id": "103",
+        "rating": 0,
+        "description": "Pick your favorite songs or type of music and do whatever dance you’d like!  You can search dance videos online, or just make up your own moves!  You have the most freedom with this exercise.",
+        "duration": 30
+    }
+]
